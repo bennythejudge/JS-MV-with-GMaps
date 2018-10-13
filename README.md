@@ -1,6 +1,8 @@
 JS-MV-with-GMaps
 ================
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/JS-MV-with-GMaps.svg)](https://www.guardrails.io)
+
 A non-todo-list comparison of javascript MVC libraries using Google Maps and Google Places.
 
 Not Another Todo List
